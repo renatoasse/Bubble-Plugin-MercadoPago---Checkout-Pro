@@ -1,0 +1,11 @@
+{
+    "categories": {
+        "0": "payment"
+    },
+    "demo_page": "https://bubble.io/page?id=semcodar-mercadopago",
+    "description": "MercadoPago é um dos maiores meios de pagamento da América Latina.\n\nCom este plugin você conseguirá fazer as 2 chamadas mais importantes para utilizar o \"Checkout Pro\":\n- Criar preferência de pagamento\n- Consultar ID de pagamento (para saber se foi pago)\n\nO token de acesso que você deverá inserir para utilizar é o seguinte:\nBearer XYZ\nTroque XYZ pelo Access Token gerado no Mercadopago, em Credenciais:\nhttps://www.mercadopago.com.br/developers/panel/credentials\n\nFaça primeiro o teste com uma Credencial de Teste.\n\nExemplo:\nBearer TEST-1596623172009026-120416-f88f63d04d96afdcc2ae75decd58f0bb-94601123\n\n-------------\n\nEste é um plugin gratuito, criado para todos os bolheiros.\nPara fazer outras integrações, veja a documentação API do MercadoPago, ou assista as aulas na Comunidade Sem Codar:\nhttps://comunidade.semcodar.com.br\n\nPara tirar dúvidas, use o grupo exclusivo de membros da Comunidade Sem Codar:\nhttps://grupo.semcodar.com.br\n\nLink do editor:\nhttps://bubble.io/page?id=semcodar-mercadopago",
+    "image": "//s3.amazonaws.com/appforest_uf/f1621268870869x279690948238060300/89986180_2821796434522204_2617673217044643840_n.jpg",
+    "license": "open_source",
+    "link": "https://bubble.io/page?id=semcodar-mercadopago",
+    "name": "MercadoPago - Checkout Pro"
+}
